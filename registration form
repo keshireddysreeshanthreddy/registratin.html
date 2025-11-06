@@ -1,0 +1,20 @@
+<!Doctype html>
+<html lang="en">
+    <head>
+       <metacharset="UTF-8">
+       <title>registration form</title> 
+    </head>
+    <body>
+        <form action>
+            <input type="text" name="name" id="name" placeholder="enter your name"><br/>
+            <label for="name">name:</label>
+            <input type="email" name="email" id="email" placeholder="enter your email"><br/>
+            <label for="email">email:</label>
+            <input type="password" name="password" id="password" placeholder="enter your password"><br/>
+            <label for="password">password:</label>
+            
+            
+        </form>
+    </body>
+    
+</html>
